@@ -1,0 +1,10 @@
+[package]
+name = "test-1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.40"
+dotenv = "0.15.0"
+thiserror = "2.0.12"
+uuid = "1.15.1"
